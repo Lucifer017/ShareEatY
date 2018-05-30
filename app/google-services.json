@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1034075509844",
+    "firebase_url": "https://shareeat-android.firebaseio.com",
+    "project_id": "shareeat-android",
+    "storage_bucket": "shareeat-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034075509844:android:016c10ccafa227bf",
+        "android_client_info": {
+          "package_name": "com.halo.loginui2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034075509844-8ubg9emf9701ticn1hifk0vr7scv5lu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halo.loginui2",
+            "certificate_hash": "932280ad75b479f1369ab844d409184f845fc6ad"
+          }
+        },
+        {
+          "client_id": "1034075509844-lre5jvm1qmqjjc59a603fo7deofjp21n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1034075509844-lre5jvm1qmqjjc59a603fo7deofjp21n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVCxYyxVMNQ2lv9uzsXLXfpe-fgZOiR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034075509844-lre5jvm1qmqjjc59a603fo7deofjp21n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034075509844:android:836854e91e1d1660",
+        "android_client_info": {
+          "package_name": "com.shareeat_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034075509844-0oogs0k10d3nnlf860t43fubo7m1jf6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shareeat_android",
+            "certificate_hash": "932280ad75b479f1369ab844d409184f845fc6ad"
+          }
+        },
+        {
+          "client_id": "1034075509844-lre5jvm1qmqjjc59a603fo7deofjp21n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1034075509844-lre5jvm1qmqjjc59a603fo7deofjp21n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVCxYyxVMNQ2lv9uzsXLXfpe-fgZOiR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034075509844-lre5jvm1qmqjjc59a603fo7deofjp21n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
